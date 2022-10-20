@@ -1,0 +1,12 @@
+{
+      "name": "b2277bcbab781c174e8445a17d8e2fd7cc7a455648b2b360fd650c982380",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "หวยมาเล ย์ 24 ประตู หวยหุ้นนิเคอิ",
+      "repository": "https://github.com/atombotserve/b2277bcbab781c174e8445a17d8e2fd7cc7a455648b2b360fd650c982380",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
